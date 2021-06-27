@@ -80,6 +80,20 @@ body {
 .login__container--register > a:hover {
   text-decoration: underline;
 }
+.login__container--login {
+  font-size: 14px;
+  text-align: center;
+  padding-top: 60px;
+}
+.login__container--login > a {
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+  text-decoration: none;
+}
+.login__container--login > a:hover {
+  text-decoration: underline;
+}
 .input {
   background-color: transparent;
   border-left: 0px;
